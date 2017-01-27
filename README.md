@@ -1,6 +1,15 @@
 # Senparc.WebSocket
 
-[![Build Status](https://travis-ci.org/JeffreySu/Senparc.WebSocket.svg?branch=master)](https://travis-ci.org/JeffreySu/Senparc.WebSocket)
+| 分支      | 生成                                           |
+|-----------|------------------------------------------------|
+| master    | [![master Build Status][1.1]][1.2]             |
+| Developer | [![Developer Build Status][2.1]][2.2]          |
+
+[1.1]: https://travis-ci.org/JeffreySu/Senparc.WebSocket.svg?branch=master
+[1.2]: https://travis-ci.org/JeffreySu/Senparc.WebSocket
+[2.1]: https://travis-ci.org/JeffreySu/Senparc.WebSocket.svg?branch=Developer
+[2.2]: https://travis-ci.org/JeffreySu/Senparc.WebSocket
+
 
 为微信小程序等提供独立的 WebSocket 服务器端环境，预计于2017年2月中旬发布beta1。
 
