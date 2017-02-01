@@ -1,9 +1,9 @@
 # Senparc.WebSocket
 
-| 分支      | 生成                                           |
-|-----------|------------------------------------------------|
-| master    | [![master Build Status][1.1]][1.2]             |
-| Developer | [![Developer Build Status][2.1]][2.2]          |
+| 分支      | 生成                                           | 备注
+|-----------|------------------------------------------------|--------------
+| master    | [![master Build Status][1.1]][1.2]             | Mono似乎找不到System.Web.WebSockets，导致左侧自动编译出错，不影响使用
+| Developer | [![Developer Build Status][2.1]][2.2]          | Mono似乎找不到System.Web.WebSockets，导致左侧自动编译出错，不影响使用
 
 [1.1]: https://travis-ci.org/JeffreySu/Senparc.WebSocket.svg?branch=master
 [1.2]: https://travis-ci.org/JeffreySu/Senparc.WebSocket
